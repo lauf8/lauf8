@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, bem vindo ao meu perfil no GitHub 😜
+⚡ Fun fact: ...
 
 <!--
 **lauf8/lauf8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
