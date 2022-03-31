@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil no GitHub 😜
+### Olá, bem vindo ao meu perfil no GitHub
 Me chamo Lucas Afonso de Souza, mas se quiser pode me chamar de Lauf.
 Gosto muito de programar e modelar sistemas, acho muito divertido pensar na lógica que vai ser a base de um sistema.
 
