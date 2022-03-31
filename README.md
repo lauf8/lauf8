@@ -1,5 +1,6 @@
 ### Olá, bem vindo ao meu perfil no GitHub 😜
-⚡ Fun fact: ...
+Me chamo Lucas Afonso de Souza, mas se quiser pode me chamar de Lauf.
+Gosto muito de programar e modelar sistemas, acho muito divertido pensar na lógica que vai ser o esqueleto de um sistema.
 
 <!--
 **lauf8/lauf8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
