@@ -2,6 +2,8 @@
 Me chamo Lucas Afonso de Souza, mas se quiser pode me chamar de Lauf.
 Gosto muito de programar e modelar sistemas, acho muito divertido pensar na lógica que vai ser a base de um sistema.
 
+Desenvolvedor Full Stack
+
 
 ![Lauf's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauf8&show_icons=true&theme=radical)
 
