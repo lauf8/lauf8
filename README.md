@@ -1,5 +1,5 @@
 ### Olá, bem vindo ao meu perfil no GitHub
-Olá! Meu nome é Lucas Afonso de Souza. Sou um entusiasta da programação e adoro modelar sistemas. Para mim, é muito divertido pensar na lógica que vai ser a base de um sistema e ver como tudo se encaixa perfeitamente. Programador web com experiência nos frameworks Laravel, Django e Rails,minha formação é Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. Sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato comigo se tiver algum questionamento.
+Olá! Meu nome é Lucas Afonso de Souza. Sou um programador e adoro modelar sistemas. Para mim, é muito divertido pensar na lógica que vai ser a base de um sistema e ver como tudo se encaixa perfeitamente. Programador web com experiência nos frameworks Laravel, Django e Rails,minha formação é Análise e Desenvolvimento de Sistemas no IF Baiano - Campus Guanambi. Sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato comigo se tiver algum questionamento.
 Desenvolvedor Full Stack
 
 
